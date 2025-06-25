@@ -17,7 +17,7 @@ Built with Tkinter and SQLite for easy setup
 **Installation**
 
 Clone this repo:
-git clone https://github.com/Jamezquita/StrainsDB.git
+git clone https://github.com/Jamezquita1/StrainsDB.git
 cd StrainsDB
 
 **Create and activate a Python virtual environment:**
