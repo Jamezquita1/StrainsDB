@@ -9,7 +9,7 @@ from datetime import timedelta
 REMINDER_DELAY = timedelta(days=7)
 
 class StrainDatabaseApp:
-    def __init__(self, root
+    def __init__(self, root):
         self.root = root
         self.root.title("Strain Database")
 
